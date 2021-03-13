@@ -3,7 +3,7 @@
 Acts as an 1:1 replacement and fits perfectly. 
 Just add a little bit of glue.
 
-[Render](Screenshot.png)
+![Render](Screenshot.png)
 
 Best print settings (PLA) :
 - 210°C Hotend
@@ -11,4 +11,4 @@ Best print settings (PLA) :
 - 0.12 layer hight
 - 100% infill
 
-[Picture of the print](rubberfoot.jpeg)
+![Picture of the print](rubberfoot.jpeg)
