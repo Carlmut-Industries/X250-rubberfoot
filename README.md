@@ -1,7 +1,8 @@
 # X250-rubberfoot
-3D model of the rubber feet of the ThinkPad X250. 
-Acts as an 1:1 replacement and fits perfectly. 
-Just add a little bit of glue.
+3D model of the rubber feet of the ThinkPad X250. <br>
+Acts as an 1:1 replacement and fits perfectly. <br>
+Just add a little bit of glue.<br>
+You need to install the BOSL-repo for Open-SCAD to modify the model.
 
 ![Render](Screenshot.png)
 
